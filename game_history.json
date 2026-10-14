@@ -1,0 +1,47 @@
+[
+    {
+        "game_number": 1,
+        "result": "Player Won",
+        "difficulty": "medium"
+    },
+    {
+        "game_number": 2,
+        "result": "Draw",
+        "difficulty": "hard"
+    },
+    {
+        "game_number": 3,
+        "result": "Player Won",
+        "difficulty": "easy"
+    },
+    {
+        "game_number": 4,
+        "result": "Player Won",
+        "difficulty": "medium"
+    },
+    {
+        "game_number": 5,
+        "result": "Player Won",
+        "difficulty": "easy"
+    },
+    {
+        "game_number": 6,
+        "result": "AI Won",
+        "difficulty": "medium"
+    },
+    {
+        "game_number": 7,
+        "result": "Draw",
+        "difficulty": "medium"
+    },
+    {
+        "game_number": 8,
+        "result": "AI Won",
+        "difficulty": "medium"
+    },
+    {
+        "game_number": 9,
+        "result": "Draw",
+        "difficulty": "medium"
+    }
+]
